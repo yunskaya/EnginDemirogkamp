@@ -11,6 +11,7 @@ namespace MaskeTakip
 
         public string[] NewArray(String[] list, string addedValue)
         {
+            //comment
             int diziUzunlugu = list.Length + 1;
             string[] newList = new string[diziUzunlugu];
 
