@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaskeTakip", "MaskeTakip\MaskeTakip.csproj", "{BF84D03D-ACD0-4032-A22C-A354FE66A8E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{8816AB32-4E18-4D8F-A6D6-ECB23C7CB1A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Business\Business.csproj", "{0A5577F9-FAB3-44E7-B453-2E055B50DBA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF84D03D-ACD0-4032-A22C-A354FE66A8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF84D03D-ACD0-4032-A22C-A354FE66A8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF84D03D-ACD0-4032-A22C-A354FE66A8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF84D03D-ACD0-4032-A22C-A354FE66A8E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8816AB32-4E18-4D8F-A6D6-ECB23C7CB1A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8816AB32-4E18-4D8F-A6D6-ECB23C7CB1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8816AB32-4E18-4D8F-A6D6-ECB23C7CB1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8816AB32-4E18-4D8F-A6D6-ECB23C7CB1A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A5577F9-FAB3-44E7-B453-2E055B50DBA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5577F9-FAB3-44E7-B453-2E055B50DBA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5577F9-FAB3-44E7-B453-2E055B50DBA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5577F9-FAB3-44E7-B453-2E055B50DBA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8BBDF9B-08FF-49F6-AAE9-69DD5BFE4B0F}
+	EndGlobalSection
+EndGlobal
